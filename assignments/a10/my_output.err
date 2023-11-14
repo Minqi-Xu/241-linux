@@ -1,0 +1,27 @@
+.merl file length (bytes): 472
+length of relocation/symbol table entries (bytes):  360
+RELOCATE location 0x10
+RELOCATE location 0x14
+RELOCATE location 0x18
+RELOCATE location 0x1c
+kitten1 ESD value 0xc
+RELOCATE location 0x28
+RELOCATE location 0x2c
+RELOCATE location 0x20
+RELOCATE location 0x30
+kitten2 ESD value 0x24
+RELOCATE location 0x38
+RELOCATE location 0x40
+RELOCATE location 0x34
+RELOCATE location 0x44
+kitten3 ESD value 0x3c
+RELOCATE location 0x4c
+RELOCATE location 0x50
+RELOCATE location 0x48
+RELOCATE location 0x58
+kitten4 ESD value 0x54
+RELOCATE location 0x60
+RELOCATE location 0x64
+RELOCATE location 0x68
+RELOCATE location 0x5c
+kitten5 ESD value 0x6c

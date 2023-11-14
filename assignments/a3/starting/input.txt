@@ -1,0 +1,6 @@
+beq $3, $5, 123
+label:
+add $4 ,$4, $3
+; comment test
+bne $7, $23, -345 ; comment test
+bne $0, $0, label

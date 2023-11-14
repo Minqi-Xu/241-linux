@@ -1,0 +1,260 @@
+80
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+(
+)
+[
+]
+{
+}
+!
+=
+,
+;
+>
+<
+/
+*
++
+-
+%
+&
+11
+start
+letter
+char
+num
+zero
+><
+><=
+assign
+==
+not
+!=
+start
+9
+letter
+char
+num
+zero
+><
+><=
+assign
+==
+!=
+155
+start a letter
+start b letter
+start c letter
+start d letter
+start e letter
+start f letter
+start g letter
+start h letter
+start i letter
+start j letter
+start k letter
+start l letter
+start m letter
+start n letter
+start o letter
+start p letter
+start q letter
+start r letter
+start s letter
+start t letter
+start u letter
+start v letter
+start w letter
+start x letter
+start y letter
+start z letter
+start A letter
+start B letter
+start C letter
+start D letter
+start E letter
+start F letter
+start G letter
+start H letter
+start I letter
+start J letter
+start K letter
+start L letter
+start M letter
+start N letter
+start O letter
+start P letter
+start Q letter
+start R letter
+start S letter
+start T letter
+start U letter
+start V letter
+start W letter
+start X letter
+start Y letter
+start Z letter
+start 0 zero
+start 1 num
+start 2 num
+start 3 num
+start 4 num
+start 5 num
+start 6 num
+start 7 num
+start 8 num
+start 9 num
+start > ><
+start < ><
+start = assign
+start ! not
+start { char
+start } char
+start [ char
+start ] char
+start ( char
+start ) char
+start + char
+start - char
+start * char
+start / char
+start % char
+start , char
+start ; char
+start & char
+letter a letter
+letter b letter
+letter c letter
+letter d letter
+letter e letter
+letter f letter
+letter g letter
+letter h letter
+letter i letter
+letter j letter
+letter k letter
+letter l letter
+letter m letter
+letter n letter
+letter o letter
+letter p letter
+letter q letter
+letter r letter
+letter s letter
+letter t letter
+letter u letter
+letter v letter
+letter w letter
+letter x letter
+letter y letter
+letter z letter
+letter A letter
+letter B letter
+letter C letter
+letter D letter
+letter E letter
+letter F letter
+letter G letter
+letter H letter
+letter I letter
+letter J letter
+letter K letter
+letter L letter
+letter M letter
+letter N letter
+letter O letter
+letter P letter
+letter Q letter
+letter R letter
+letter S letter
+letter T letter
+letter U letter
+letter V letter
+letter W letter
+letter X letter
+letter Y letter
+letter Z letter
+letter 0 letter
+letter 1 letter
+letter 2 letter
+letter 3 letter
+letter 4 letter
+letter 5 letter
+letter 6 letter
+letter 7 letter
+letter 8 letter
+letter 9 letter
+num 0 num
+num 1 num
+num 2 num
+num 3 num
+num 4 num
+num 5 num
+num 6 num
+num 7 num
+num 8 num
+num 9 num
+>< = ><=
+assign = ==
+not = !=

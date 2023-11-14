@@ -1,0 +1,50 @@
+4
+cat
+dog
+iguana
+mouse
+8
+start
+c1
+d1
+i
+c2
+d2
+m
+NG
+start
+1
+m
+32
+start cat c1
+start dog NG
+start iguana NG
+start mouse NG
+NG cat c1
+NG dog NG
+NG iguana NG
+NG mouse NG
+c1 cat c1
+c1 dog d1
+c1 iguana NG
+c1 mouse NG
+d1 cat c1
+d1 dog NG
+d1 iguana i
+d1 mouse NG
+i cat c2
+i dog NG
+i iguana NG
+i mouse NG
+c2 cat c1
+c2 dog d2
+c2 iguana NG
+c2 mouse NG
+d2 cat c1
+d2 dog NG
+d2 iguana i
+d2 mouse m
+m cat m
+m dog m
+m iguana m
+m mouse m

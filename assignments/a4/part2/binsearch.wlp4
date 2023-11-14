@@ -1,0 +1,27 @@
+int binsearch(int* arry, int size, int n) {
+	int ans = 0;
+	int temp = 0;
+	int negOne = 0;
+	negOne = 0 - 1;
+	if(size == 0) {
+		ans = negOne;
+	} else {
+		if(size == 1) {
+			if(*arry == n) { ans = 0; }
+			else { ans = negOne; }
+		} else {
+			temp = size / 2;
+			if(*(arry + temp) >= n) {
+				if( *(arry + temp) == n ) { ans = temp; }
+				else { ans = binsearch(arry, temp + 1, n); }
+			} else {
+				ans = binsearch(arry + temp + 1, size - temp - 1, n);
+				if(ans == negOne) { ans = negOne; }
+				else {
+					ans = ans + temp + 1;
+				}
+			}
+		}
+	}
+	return ans;
+}
